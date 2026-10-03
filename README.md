@@ -72,6 +72,3 @@ This project helped me practice:
 - Add a pause feature
 - Add difficulty levels (easy/medium/hard speed presets)
 - Add walls-off mode where the snake passes through the walls and only dies when it hits itself.
-
-## AI disclosure
--gemini(free tier) was used in the building of this game.However, it was used for assistance mainly in implimentation and debugging rather than in designing the project.
